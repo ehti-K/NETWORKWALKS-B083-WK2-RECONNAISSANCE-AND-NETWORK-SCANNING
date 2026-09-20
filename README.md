@@ -453,6 +453,12 @@ The detailed Week 2 report covering methodology, findings, troubleshooting, obse
 
 ---
 
+## Author
+
+**Ihtisham Khan**  
+Computer Science Graduate | Cybersecurity Learner | Networkwalks Intern
+- Focus: Cybersecurity, Networking, Ethical Hacking, OSINT
+---
 ## Internship
 
 **Program:** Cybersecurity & Ethical Hacking Internship  
